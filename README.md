@@ -1,4 +1,4 @@
-### Hello World, I'm Anna  👋
+### Hello World, I'm Sandeep  👋
 
  <img align="right" alt="GIF" src="https://github.com/sandeeplenka/sandeeplenka/blob/main/code.gif?raw=true" width="500" height="320" />
 
