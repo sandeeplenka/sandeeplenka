@@ -1,7 +1,7 @@
 ### Hello World, I'm Sandeep  👋
 
- <img align="right" alt="GIF" src="https://github.com/sandeeplenka/sandeeplenka/blob/main/code.gif?raw=true" width="500" height="320" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeeplenka&label=Profile%20views&color=0e75b6&style=flat" alt="sandeeplenka" /> </p>
+ <img align="right" alt="GIF" src="https://github.com/sandeeplenka/sandeeplenka/blob/main/code.gif?raw=true" width="400" height="300" />
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeeplenka&label=Profile%20views&color=0e75b6&style=flat" alt="sandeeplenka" /> </p>
 
 
 ## I'm a Student, Coder, Developer, Creator, and Gamer!!
@@ -21,7 +21,7 @@
 
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
