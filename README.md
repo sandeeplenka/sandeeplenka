@@ -11,6 +11,7 @@
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I speak 3 languages ( English, Hindi, Oriya)
+<p align="left"> <a href="https://twitter.com/sandycool9906" target="blank"><img src="https://img.shields.io/twitter/follow/sandycool9906?logo=twitter&style=for-the-badge" alt="sandycool9906" /></a> </p>
 
 
 ### Talk with me, I am kinda awesome:
