@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I speak e languages ( English, Hindi, Oriya)
+- ⚡ Fun fact: I speak 3 languages ( English, Hindi, Oriya)
 
 
 ### Talk with me, I am kinda awesome:
