@@ -5,13 +5,18 @@
 
 
 ## I'm a Student, Coder, Developer, Creator, and Gamer!!
-- ✍ You can find my projects here 
-- 🔭 I’m currently working on my first book.
-- 🌱 I’m currently learning React Native and Azure
+- 🌱 I’m currently learning **Data Structure and algorithm**
+
+- 💬 Ask me about **...Anything**
+
+- 📫 How to reach me **sandycool9906@gmail.com**
+
+- ⚡ Fun fact **I love Games** 
+
 - 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I speak 3 languages ( English, Hindi, Oriya)
+
+- 🔭 I’m currently working on my **first Project**
+
 <p align="left"> <a href="https://twitter.com/sandycool9906" target="blank"><img src="https://img.shields.io/twitter/follow/sandycool9906?logo=twitter&style=for-the-badge" alt="sandycool9906" /></a> </p>
 
 
