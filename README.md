@@ -3,7 +3,7 @@
 
 
 ## <img src="https://github.com/sandeeplenka/sandeeplenka/blob/main/icons/superman.gif?raw=true" width="30" height="60">Hello World I'm Sandeep<img src="https://c.tenor.com/HO7EBVsu04oAAAAi/pikachu-pokemon.gif" width="50">
-<img align="right" alt="GIF" src="https://media.giphy.com/media/DjzqfSfvJqRhBt2n6B/giphy.gif?raw=true" width="410" height="360" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/DjzqfSfvJqRhBt2n6B/giphy.gif?raw=true" width="410" height="340" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeeplenka&label=Profile%20views&color=0e75b6&style=flat" alt="sandeeplenka" /> </p>
 
 # <img src="https://github.com/sandeeplenka/sandeeplenka/blob/main/icons/sonic.gif?raw=true" width="40"> A little more about me . . .
