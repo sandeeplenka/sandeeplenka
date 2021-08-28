@@ -56,6 +56,17 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][link]
 [<img align="left" alt="GitHub" width="26px" src="https://github.com/sandeeplenka/sandeeplenka/blob/main/icons/icons8-github.gif?raw=true" />][github]
 
+<br />
+
+### Coding Profiles:
+
+[<img align="left" alt="C++" width="26px" src="https://github.com/sandeeplenka/sandeeplenka/blob/main/icons/codechef.jpg?raw=true" />][codechef]
+[<img align="left" alt="C++" width="26px" src="https://github.com/sandeeplenka/sandeeplenka/blob/main/icons/LeetCode_logo_black.png?raw=true" />][leetcode]
+[<img align="left" alt="C++" width="26px" src="https://github.com/sandeeplenka/sandeeplenka/blob/main/icons/com.SoftTechs.CodeForces.jpg?raw=true" />][codeforces]
+
+
+
+
 
 <br />
 <br />
@@ -93,7 +104,9 @@
 [link]: https://www.google.com
 [mail]: sandycool9906@gmail.com
 [github]: https://github.com/sandeeplenka 
-
+[leetcode]: https://leetcode.com/sandycool9906/
+[codechef]: https://www.codechef.com/users/sandycool9906
+[codeforces]: https://codeforces.com/profile/sandycool9906
 
 
 
