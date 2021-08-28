@@ -7,8 +7,8 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeeplenka&label=Profile%20views&color=0e75b6&style=flat" alt="sandeeplenka" /> </p>
 
 
-## <img src="https://i.gifer.com/3F3F.gif?raw=true" width="40"> A little more about me . . .
-## <img src="https://i.gifer.com/LV41.gif?raw=true" width="40">I'm a Student, Coder, Developer, Creator, and Gamer!!<img src="https://i.gifer.com/76Xi.gif" width="50">
+## <img src="https://github.com/sandeeplenka/sandeeplenka/blob/main/icons/sonic.gif?raw=true" width="40"> A little more about me . . .
+## <img src="https://github.com/sandeeplenka/sandeeplenka/blob/main/icons/developer.gif?raw=true" width="60"> I'm a Student, Coder, Developer, Creator, and Gamer!! <img src="https://github.com/sandeeplenka/sandeeplenka/blob/main/icons/console.gif?raw=true" width="50">
 - 🌱 I’m currently learning **Data Structure and algorithm**
 
 - 💬 Ask me about **...Anything**
@@ -57,7 +57,7 @@
 <br />
 <br />
 ---
-<img src="https://i.gifer.com/ZS3t.gif" width="50">
+<img src="https://github.com/sandeeplenka/sandeeplenka/blob/main/icons/pressstart.gif?raw=true" width="50">
 <details>
   <summary>:zap: GitHub Stats</summary>
 
