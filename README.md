@@ -2,17 +2,14 @@
 
 ## <img src="https://github.com/sandeeplenka/sandeeplenka/blob/main/icons/superman.gif?raw=true" width="30" height="60">Hello World I'm Sandeep<img src="https://c.tenor.com/HO7EBVsu04oAAAAi/pikachu-pokemon.gif" width="50">
 <img align="right" alt="GIF" src="https://media.giphy.com/media/DjzqfSfvJqRhBt2n6B/giphy.gif?raw=true" width="400" height="300" />
- 
- 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeeplenka&label=Profile%20views&color=0e75b6&style=flat" alt="sandeeplenka" /> </p>
 <br>
 
 # <img src="https://github.com/sandeeplenka/sandeeplenka/blob/main/icons/sonic.gif?raw=true" width="40"> A little more about me . . .
-## <img src="https://github.com/sandeeplenka/sandeeplenka/blob/main/icons/c1.gif?raw=true" width="60"> I'm a Student, Coder, Developer, Creator, and Gamer!! <img src="https://github.com/sandeeplenka/sandeeplenka/blob/main/icons/console.gif?raw=true" width="50">
 
-  <br>
-  
+## <img src="https://github.com/sandeeplenka/sandeeplenka/blob/main/icons/c1.gif?raw=true" width="60"> I'm a Student, Coder, Developer, Creator, and Gamer!! <img src="https://github.com/sandeeplenka/sandeeplenka/blob/main/icons/console.gif?raw=true" width="50">
+<br>
 
 - 🌱 I’m currently learning **Data Structure and algorithm**
 
