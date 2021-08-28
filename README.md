@@ -22,7 +22,7 @@
 - 👯 I’m looking to collaborate on open source
 
 - 🔭 I’m currently working on my **first Project**
- <img align="right" alt="GIF" src="https://i.gifer.com/U55Q.gif?raw=true" width="300" height="340"/>
+ <img align="right" alt="GIF" src="https://github.com/sandeeplenka/sandeeplenka/blob/main/icons/games.gif?raw=true" width="300" height="340"/>
 
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/sandycool9906?style=social)](https://twitter.com/sandycool9906)
