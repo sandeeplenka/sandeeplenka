@@ -18,8 +18,7 @@
 - 📫 How to reach me **sandycool9906@gmail.com**
 
 - ⚡ Fun fact **I love Games** 
-   
-   <img align="right" alt="GIF" src="https://github.com/sandeeplenka/sandeeplenka/blob/main/icons/games.gif?raw=true" width="400" height="500"/>
+  <img align="right" alt="GIF" src="https://github.com/sandeeplenka/sandeeplenka/blob/main/icons/games.gif?raw=true" width="395" height="490"/>
 
 - 👯 I’m looking to collaborate on open source
 
