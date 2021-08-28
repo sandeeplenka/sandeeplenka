@@ -1,7 +1,7 @@
 
 
 ## <img src="https://github.com/sandeeplenka/sandeeplenka/blob/main/icons/superman.gif?raw=true" width="30" height="60">Hello World I'm Sandeep<img src="https://c.tenor.com/HO7EBVsu04oAAAAi/pikachu-pokemon.gif" width="50">
-<img align="right" alt="GIF" src="https://media.giphy.com/media/DjzqfSfvJqRhBt2n6B/giphy.gif?raw=true" width="400" height="300" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/DjzqfSfvJqRhBt2n6B/giphy.gif?raw=true" width="500" height="400" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeeplenka&label=Profile%20views&color=0e75b6&style=flat" alt="sandeeplenka" /> </p>
 
 # <img src="https://github.com/sandeeplenka/sandeeplenka/blob/main/icons/sonic.gif?raw=true" width="40"> A little more about me . . .
@@ -20,7 +20,7 @@
 - 👯 I’m looking to collaborate on open source
 
 - 🔭 I’m currently working on my **first Project**
- <img align="right" alt="GIF" src="https://github.com/sandeeplenka/sandeeplenka/blob/main/icons/games.gif?raw=true" width="300" height="340"/>
+ <img align="right" alt="GIF" src="https://github.com/sandeeplenka/sandeeplenka/blob/main/icons/games.gif?raw=true" width="400" height="500"/>
 
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/sandycool9906?style=social)](https://twitter.com/sandycool9906)
