@@ -21,21 +21,25 @@
 
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="linkedin" width="26px" src="https://github.com/sandeeplenka/sandeeplenka/blob/main/icons/icons8-linkedin-circled.gif?raw=true" />][linkedin]
+[<img align="left" alt="" width="26px" src="https://github.com/sandeeplenka/sandeeplenka/blob/main/icons/icons8-twitter.gif?raw=true" />][linkedin]
+[<img align="left" alt="" width="26px" src="https://github.com/sandeeplenka/sandeeplenka/blob/main/icons/icons8-instagram-logo.gif?raw=true" />][linkedin]
+[<img align="left" alt="" width="26px" src="https://github.com/sandeeplenka/sandeeplenka/blob/main/icons/icons8-facebook.gif?raw=true" />][linkedin]
+[<img align="left" alt="" width="26px" src="https://github.com/sandeeplenka/sandeeplenka/blob/main/icons/icons8-discord-new.gif?raw=true" />][linkedin]
 
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][link]
+[<img align="left" alt="C++" width="26px" src="https://github.com/sandeeplenka/sandeeplenka/blob/main/icons/icons8-c%2B%2B-48.png?raw=true" />][link]
+[<img align="left" alt="HTML5" width="26px" src="https://github.com/sandeeplenka/sandeeplenka/blob/main/icons/icons8-java.gif?raw=true" />][link]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][link]
+[<img align="left" alt="HTML5" width="26px" src="https://github.com/sandeeplenka/sandeeplenka/blob/main/icons/icons8-python.gif?raw=true" />][link]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][link]
-[<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][link]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][link]
+[<img align="left" alt="JavaScript" width="26px" src="https://github.com/sandeeplenka/sandeeplenka/blob/main/icons/icons8-javascript.gif?raw=true" />][link]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][link]
-[<img align="left" alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][link]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][link]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][link]
+[<img align="left" alt="GitHub" width="26px" src="https://github.com/sandeeplenka/sandeeplenka/blob/main/icons/icons8-github.gif?raw=true" />][link]
 
 
 <br />
@@ -56,12 +60,13 @@
 
 </details>
 
-[website]: https://holistic-developer.com/
+[twitter]: https://holistic-developer.com/
 [youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
 [instagram]: https://www.instagram.com/sandy_gamer_sr4/
-[linkedin]: https://www.linkedin.com/in/sandeep-kumar-lenka-a0657b154/
+[linkedin]: https://www.linkedin.com/in/sandycool9906/
 [portfolio]: https://arsentieva.github.io/profile/
 [link]: https://www.google.com
+[mail]:sandycool9906@gmail.com
 
 
 
